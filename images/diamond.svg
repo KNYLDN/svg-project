@@ -1,0 +1,8 @@
+<svg width="920" height="905"  version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="diamond" viewBox="0 0 920 905">
+
+    <polygon points="225,60 80,295 460,760 840,295 695,60" style="fill:white;stroke:black;stroke-width:35"/>
+    <polyline points="240,60 325,295 460,78 595,295 460,725 325,295 595,295 680,60 225,60" style="fill:white;stroke:black;stroke-width:35" />
+    <line x1="80" y1="295" x2="840" y2="295" style="stroke:black;stroke-width:35"/>
+    </symbol>
+</svg>
